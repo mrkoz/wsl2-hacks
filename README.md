@@ -2,7 +2,7 @@
 
 Built for a hybrid windows/wsl environment.
 
-First up, clone this repo to somewhere that can be found in bash and in Windows and update the `vpn.sh` file to match your file path.
+First up, clone this repo to somewhere that can be found in bash and in Windows.
 
 ## WSL basic config
 
